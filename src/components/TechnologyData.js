@@ -37,8 +37,8 @@ const TechnologyData = [
     },
     {
       duration:3000,
-      img: "/images/mongo_img.png",
-      name: "Mongo DB"
+      img: "/images/posgres.png",
+      name: "PostgreSQL"
     },
     {
       duration:3000,
